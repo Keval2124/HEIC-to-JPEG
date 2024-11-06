@@ -70,6 +70,6 @@ def process_folder(input_folder, output_folder):
                 print(f"Error processing file: {e}")
 
 # Example usage:
-input_folder = 'C:\\Users\\keval\\Pictures\\uk'
-output_folder = 'C:\\Users\\keval\\Pictures\\photo\\uk'
+input_folder = ''
+output_folder = ''
 process_folder(input_folder, output_folder)
